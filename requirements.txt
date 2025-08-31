@@ -3,6 +3,7 @@ uvicorn
 python-dotenv
 google-generativeai
 pinecone-client
+llama-index-llms-gemini
 # Latest llama_index with Gemini support
 git+https://github.com/jerryjliu/llama_index.git@main
 
